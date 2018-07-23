@@ -1,17 +1,17 @@
-# SPL
-self-paced learning algorithms realization sets
+# 创建日期
+2018/07/23
 
-=======
-# Gluon_Version
-This is implement by MXNet Gluon.Using FashionMNIST
+# 说明
+机器学习算法相关实现
 
-# Active-Learning
-Semi Supervised Machine Learning (Not implement)
+# 框架
+- Tensorflow
+- MXNet
+- ...
 
-# Using TensorDeepMnist.py
-test accuracy 0.9918
-
-# Traing Result
-
-![image](http://ovnuv29fq.bkt.clouddn.com/deep_mnist.png)
-
+# 目录结构
+```
+└─DigitsClassification   # 手写数字识别Demo
+    ├─GluonVersion       # 自定义简易两层网络结构
+    └─TensorflowVersion  # LeNet-5
+```
