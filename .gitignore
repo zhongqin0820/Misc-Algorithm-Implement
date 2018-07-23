@@ -2,3 +2,5 @@
 Misc/
 *.pyc
 DigitsClassification/Data/
+# ignore cache files in LPA
+LPA/__pycache__/*
