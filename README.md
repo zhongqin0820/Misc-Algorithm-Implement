@@ -14,5 +14,5 @@
 └─DigitsClassification   # 手写数字识别Demo
 │   ├─GluonVersion       # 自定义简易两层网络结构
 │   └─TensorflowVersion  # LeNet-5
-└─LPA										 # 标签传播(knn、rbf)
+└─LPA                    # 标签传播(knn、rbf)
 ```
