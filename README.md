@@ -1,18 +1,26 @@
-# 创建日期
+# Created
 2018/07/23
 
-# 说明
-机器学习算法相关实现
+# Updated
+2018/09/22
 
-# 框架
-- Tensorflow
+# Description
+Miscellaneous Algorithm Implement
+
+# Framework
+- Tensorflow 
 - MXNet
+- XGBoost
 - ...
 
-# 目录结构
+# Structure
 ```
-└─DigitsClassification   # 手写数字识别Demo
-│   ├─GluonVersion       # 自定义简易两层网络结构
+└─Colab # Google Colab Platform, learn basic data analysis.
+│   ├─titanic
+│   ├─boston
+│   └─taxi
+└─DigitsClassification   # Handwrittern digital classification Demo
+│   ├─GluonVersion       # Basic 2-layer network
 │   └─TensorflowVersion  # LeNet-5
-└─LPA                    # 标签传播(knn、rbf)
+└─LPA                    # Label propagation algorithm(knn、rbf)
 ```
