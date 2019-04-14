@@ -4,3 +4,7 @@ Misc/
 DigitsClassification/Data/
 # ignore cache files in LPA
 LPA/__pycache__/*
+*/.DS_Store
+.DS_Store
+/data/*
+/TensorFlow/data/MNIST/*
