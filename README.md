@@ -2,7 +2,7 @@
 2018/07/23
 
 # Updated
-2018/09/22
+2019/04/14
 
 # Description
 Miscellaneous Algorithm Implement
@@ -11,6 +11,7 @@ Miscellaneous Algorithm Implement
 - Tensorflow 
 - MXNet
 - XGBoost
+- PyTorch
 - ...
 
 # Structure
